@@ -4,7 +4,9 @@ import { IReducer } from './interfaces'
 
 import * as types from './types'
 
-const initialState: IReducer = {}
+const initialState: IReducer = {
+  status: 'input',
+}
 
 function reducer(state = initialState, action: AnyAction): IReducer {
   switch (action.type) {
@@ -17,6 +19,11 @@ function reducer(state = initialState, action: AnyAction): IReducer {
       return {
         ...state,
         end: action.end,
+      }
+    case types.CHANGE_STATUS:
+      return {
+        ...state,
+        status: action.status,
       }
     default:
       return state

@@ -2,9 +2,9 @@ import React, { FC, useCallback } from 'react'
 
 import { useDispatch, useSelector } from 'react-redux'
 import { AnyAction, Dispatch } from 'redux'
-import { INDEX } from 'typings'
+import { INDEX, STATUS } from 'typings'
 
-import { IReducer, setStartIdx, setEndIdx } from 'reducers'
+import { IReducer, setStartIdx, setEndIdx, changeStatus } from 'reducers'
 
 import { Form, Input, Button } from 'components'
 
@@ -39,8 +39,17 @@ const InputData: FC = (props: Props) => {
     [dispatch]
   )
 
+  const onSubmit = useCallback(
+    (event: React.FormEvent<HTMLFormElement>) => {
+      event.preventDefault()
+      const value: STATUS = 'result'
+      dispatch(changeStatus(value))
+    },
+    [dispatch]
+  )
+
   return (
-    <Form>
+    <Form onSubmit={onSubmit}>
       <Input
         placeholder="시작번호를 입력하세요"
         onChange={changeStartInput}
@@ -51,7 +60,7 @@ const InputData: FC = (props: Props) => {
         onChange={changeEndInput}
         value={state.end || ''}
       />
-      <Button>검색</Button>
+      <Button type="submit">검색</Button>
     </Form>
   )
 }

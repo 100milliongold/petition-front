@@ -1,5 +1,5 @@
 import { Action, AnyAction } from 'redux'
-import { INDEX } from 'typings'
+import { INDEX, STATUS } from 'typings'
 import * as types from './types'
 
 export const setStartIdx = (start: INDEX): AnyAction => ({
@@ -10,4 +10,9 @@ export const setStartIdx = (start: INDEX): AnyAction => ({
 export const setEndIdx = (end: INDEX): AnyAction => ({
   end,
   type: types.SET_END_IDX,
+})
+
+export const changeStatus = (status: STATUS): AnyAction => ({
+  status,
+  type: types.CHANGE_STATUS,
 })

@@ -4,7 +4,7 @@ import { Provider } from 'react-redux'
 
 import { ThemeProvider } from 'styled-components'
 import { GlobalStyles, theme } from 'styles'
-import { Content, Card, InputData, Title } from 'components'
+import { RootContainer } from 'components'
 
 import { configureStore, reportWebVitals } from 'core'
 
@@ -14,12 +14,7 @@ ReactDOM.render(
   <ThemeProvider theme={theme}>
     <GlobalStyles />
     <Provider store={store}>
-      <Content data-cy="content">
-        <Title>분석</Title>
-        <Card data-cy="card">
-          <InputData />
-        </Card>
-      </Content>
+      <RootContainer />
     </Provider>
   </ThemeProvider>,
   document.getElementById('root')
