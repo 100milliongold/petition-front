@@ -4,7 +4,15 @@ import { useDispatch, useSelector } from 'react-redux'
 import { AnyAction, Dispatch } from 'redux'
 import { INDEX, STATUS } from 'typings'
 
-import { IReducer, setStartIdx, setEndIdx, changeStatus } from 'reducers'
+import {
+  IReducer,
+  setStartIdx,
+  setEndIdx,
+  changeStatus,
+  setAnalyzerData,
+} from 'reducers'
+
+import { getAnalyzer } from 'utils'
 
 import { Form, Input, Button } from 'components'
 
@@ -42,10 +50,17 @@ const InputData: FC = (props: Props) => {
   const onSubmit = useCallback(
     (event: React.FormEvent<HTMLFormElement>) => {
       event.preventDefault()
-      const value: STATUS = 'result'
-      dispatch(changeStatus(value))
+
+      const { start, end } = state
+      if (start !== undefined && end !== undefined) {
+        getAnalyzer(start, end).then((res) => {
+          dispatch(setAnalyzerData(res))
+          const value: STATUS = 'result'
+          dispatch(changeStatus(value))
+        })
+      }
     },
-    [dispatch]
+    [dispatch, state]
   )
 
   return (

@@ -38,6 +38,31 @@ const BarChart: FC<IProps> = ({ data }: IProps) => {
         // Configuration options go here
         options: {
           responsive: false,
+          scales: {
+            xAxes: [
+              {
+                display: true,
+                scaleLabel: {
+                  display: true,
+                },
+                ticks: {
+                  autoSkip: false,
+                },
+              },
+            ],
+            yAxes: [
+              {
+                display: true,
+                ticks: {
+                  suggestedMin: 0,
+                  stepSize: 1,
+                },
+                scaleLabel: {
+                  display: true,
+                },
+              },
+            ],
+          },
         },
       })
       setChart(chart)
@@ -51,6 +76,8 @@ const BarChart: FC<IProps> = ({ data }: IProps) => {
   )
 }
 
-BarChart.defaultProps = {}
+BarChart.defaultProps = {
+  data: [],
+}
 
 export default BarChart

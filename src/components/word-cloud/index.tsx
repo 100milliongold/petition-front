@@ -2,15 +2,18 @@ import React, { FC, useCallback, useMemo } from 'react'
 // import * as d3 from 'd3-cloud'
 // import * as d3 from 'd3'
 import { Wrapper } from './styles'
+import { KEYWORDS } from 'typings'
 import WordCloud from 'react-d3-cloud'
-import data from './data.json'
+// import data from './data.json'
 import _ from 'lodash'
 
-interface IProps {}
+interface IProps {
+  data: KEYWORDS
+}
 
 const maxFontSize = 64
 
-const App: FC<IProps> = (props: IProps) => {
+const App: FC<IProps> = ({ data }: IProps) => {
   const newData = useMemo(
     () =>
       _(data)

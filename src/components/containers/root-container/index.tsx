@@ -17,13 +17,14 @@ export const RootContainer = (props: Props) => {
     status,
   }))
 
-  switch (state.status) {
-    case 'input':
-      return <InputContainer />
-    case 'result':
-    default:
-      return <ResoultContainer />
-  }
+  return (
+    <>
+      {state.status === 'result' && <ResoultContainer />}
+      {(state.status === 'input' || state.status === undefined) && (
+        <InputContainer />
+      )}
+    </>
+  )
 }
 
 export default RootContainer
