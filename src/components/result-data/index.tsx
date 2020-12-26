@@ -1,46 +1,37 @@
-import React, { useRef, useEffect, useState } from 'react'
-import { Wrapper } from 'components'
-import { select, utcParse } from 'd3'
+import React from 'react'
+import { BarChart, WordCloud } from 'components'
 
-interface IProps {}
+interface Props {}
 
-export const ResoultData = (props: IProps) => {
-  const [data, setData] = useState([25, 30, 45, 60, 20])
-
-  const svgRef: React.RefObject<SVGSVGElement> = useRef(null)
-
-  useEffect(() => {
-    const svg = select(svgRef.current)
-    svg
-      .selectAll('circle')
-      .data(data)
-      .join(
-        (enter) =>
-          enter
-            .append('circle')
-            .attr('class', 'new')
-            .attr('r', (value) => value)
-            .attr('cx', (value) => value * 2)
-            .attr('cy', (value) => value * 2)
-            .attr('stroke', 'blue'),
-        // cs -> x-coordinate
-        (update) =>
-          update
-            .attr('class', 'updated')
-            .attr('r', (value) => value)
-            .attr('cx', (value) => value * 2)
-            .attr('cy', (value) => value * 2),
-        (exit) => exit.remove()
-      )
-  }, [data])
-
+export const ResoultData = (props: Props) => {
   return (
-    <>
-      <Wrapper ref={svgRef}>{}</Wrapper>
-      <button onClick={() => setData(data.map((value) => value + 5))}>
-        update data
-      </button>
-    </>
+    <div>
+      <BarChart
+        data={[
+          {
+            value: 2,
+            name: '인권/성평등',
+          },
+          {
+            value: 1,
+            name: '육아/교육',
+          },
+          {
+            value: 2,
+            name: '보건복지',
+          },
+          {
+            value: 1,
+            name: '행정',
+          },
+          {
+            value: 1,
+            name: '교통/건축/국토',
+          },
+        ]}
+      />
+      <WordCloud />
+    </div>
   )
 }
 

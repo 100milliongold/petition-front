@@ -19,9 +19,9 @@ export const RootContainer = (props: Props) => {
 
   switch (state.status) {
     case 'input':
-    default:
       return <InputContainer />
     case 'result':
+    default:
       return <ResoultContainer />
   }
 }

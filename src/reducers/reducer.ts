@@ -5,7 +5,7 @@ import { IReducer } from './interfaces'
 import * as types from './types'
 
 const initialState: IReducer = {
-  status: 'input',
+  status: 'result',
 }
 
 function reducer(state = initialState, action: AnyAction): IReducer {

@@ -1,0 +1,2274 @@
+[
+    {
+      "value": 4,
+      "name": "사진"
+    },
+    {
+      "value": 2,
+      "name": "도용"
+    },
+    {
+      "value": 2,
+      "name": "성"
+    },
+    {
+      "value": 10,
+      "name": "말"
+    },
+    {
+      "value": 2,
+      "name": "연락"
+    },
+    {
+      "value": 2,
+      "name": "인"
+    },
+    {
+      "value": 1,
+      "name": "스타"
+    },
+    {
+      "value": 1,
+      "name": "플랫폼"
+    },
+    {
+      "value": 3,
+      "name": "무시"
+    },
+    {
+      "value": 1,
+      "name": "신경"
+    },
+    {
+      "value": 2,
+      "name": "와중"
+    },
+    {
+      "value": 2,
+      "name": "성추행"
+    },
+    {
+      "value": 14,
+      "name": "사람"
+    },
+    {
+      "value": 2,
+      "name": "계정"
+    },
+    {
+      "value": 1,
+      "name": "농락"
+    },
+    {
+      "value": 1,
+      "name": "메세지"
+    },
+    {
+      "value": 4,
+      "name": "내용"
+    },
+    {
+      "value": 5,
+      "name": "글"
+    },
+    {
+      "value": 2,
+      "name": "신고"
+    },
+    {
+      "value": 1,
+      "name": "고소"
+    },
+    {
+      "value": 4,
+      "name": "처음"
+    },
+    {
+      "value": 1,
+      "name": "경찰서"
+    },
+    {
+      "value": 8,
+      "name": "때"
+    },
+    {
+      "value": 5,
+      "name": "사건"
+    },
+    {
+      "value": 5,
+      "name": "문제"
+    },
+    {
+      "value": 3,
+      "name": "개인"
+    },
+    {
+      "value": 1,
+      "name": "사생활"
+    },
+    {
+      "value": 1,
+      "name": "탓"
+    },
+    {
+      "value": 2,
+      "name": "기관"
+    },
+    {
+      "value": 7,
+      "name": "도움"
+    },
+    {
+      "value": 1,
+      "name": "요청"
+    },
+    {
+      "value": 1,
+      "name": "일말"
+    },
+    {
+      "value": 1,
+      "name": "범인"
+    },
+    {
+      "value": 2,
+      "name": "상태"
+    },
+    {
+      "value": 2,
+      "name": "수사"
+    },
+    {
+      "value": 1,
+      "name": "야"
+    },
+    {
+      "value": 1,
+      "name": "얼굴"
+    },
+    {
+      "value": 2,
+      "name": "합성"
+    },
+    {
+      "value": 1,
+      "name": "테러"
+    },
+    {
+      "value": 1,
+      "name": "성적"
+    },
+    {
+      "value": 1,
+      "name": "차별"
+    },
+    {
+      "value": 1,
+      "name": "발전"
+    },
+    {
+      "value": 1,
+      "name": "심리"
+    },
+    {
+      "value": 2,
+      "name": "불안"
+    },
+    {
+      "value": 1,
+      "name": "상담"
+    },
+    {
+      "value": 2,
+      "name": "결과"
+    },
+    {
+      "value": 2,
+      "name": "우리나라"
+    },
+    {
+      "value": 4,
+      "name": "협조"
+    },
+    {
+      "value": 2,
+      "name": "부탁"
+    },
+    {
+      "value": 2,
+      "name": "외국"
+    },
+    {
+      "value": 22,
+      "name": "피해자"
+    },
+    {
+      "value": 15,
+      "name": "생각"
+    },
+    {
+      "value": 6,
+      "name": "청원"
+    },
+    {
+      "value": 3,
+      "name": "이슈"
+    },
+    {
+      "value": 1,
+      "name": "논란"
+    },
+    {
+      "value": 4,
+      "name": "나라"
+    },
+    {
+      "value": 1,
+      "name": "방도"
+    },
+    {
+      "value": 2,
+      "name": "조심"
+    },
+    {
+      "value": 3,
+      "name": "작성"
+    },
+    {
+      "value": 1,
+      "name": "혼자"
+    },
+    {
+      "value": 3,
+      "name": "해결"
+    },
+    {
+      "value": 6,
+      "name": "상황"
+    },
+    {
+      "value": 2,
+      "name": "감사"
+    },
+    {
+      "value": 2,
+      "name": "얼마"
+    },
+    {
+      "value": 5,
+      "name": "전"
+    },
+    {
+      "value": 25,
+      "name": "코로나"
+    },
+    {
+      "value": 7,
+      "name": "실직"
+    },
+    {
+      "value": 3,
+      "name": "정부"
+    },
+    {
+      "value": 2,
+      "name": "법정"
+    },
+    {
+      "value": 5,
+      "name": "부모"
+    },
+    {
+      "value": 1,
+      "name": "재작년"
+    },
+    {
+      "value": 1,
+      "name": "식당"
+    },
+    {
+      "value": 2,
+      "name": "시장"
+    },
+    {
+      "value": 1,
+      "name": "하루"
+    },
+    {
+      "value": 4,
+      "name": "시간"
+    },
+    {
+      "value": 1,
+      "name": "이상"
+    },
+    {
+      "value": 3,
+      "name": "일"
+    },
+    {
+      "value": 1,
+      "name": "달"
+    },
+    {
+      "value": 1,
+      "name": "고생"
+    },
+    {
+      "value": 2,
+      "name": "손"
+    },
+    {
+      "value": 5,
+      "name": "돈"
+    },
+    {
+      "value": 2,
+      "name": "전부"
+    },
+    {
+      "value": 3,
+      "name": "가족"
+    },
+    {
+      "value": 1,
+      "name": "그동안"
+    },
+    {
+      "value": 2,
+      "name": "후"
+    },
+    {
+      "value": 9,
+      "name": "지금"
+    },
+    {
+      "value": 9,
+      "name": "아이"
+    },
+    {
+      "value": 1,
+      "name": "골목"
+    },
+    {
+      "value": 1,
+      "name": "안쪽"
+    },
+    {
+      "value": 3,
+      "name": "삶"
+    },
+    {
+      "value": 1,
+      "name": "악화"
+    },
+    {
+      "value": 1,
+      "name": "일자리"
+    },
+    {
+      "value": 1,
+      "name": "걱정"
+    },
+    {
+      "value": 1,
+      "name": "두려움"
+    },
+    {
+      "value": 1,
+      "name": "허리띠"
+    },
+    {
+      "value": 2,
+      "name": "지병"
+    },
+    {
+      "value": 1,
+      "name": "몸"
+    },
+    {
+      "value": 1,
+      "name": "최선"
+    },
+    {
+      "value": 1,
+      "name": "노력"
+    },
+    {
+      "value": 5,
+      "name": "청년"
+    },
+    {
+      "value": 1,
+      "name": "목소리"
+    },
+    {
+      "value": 1,
+      "name": "수용"
+    },
+    {
+      "value": 2,
+      "name": "세상"
+    },
+    {
+      "value": 1,
+      "name": "나중"
+    },
+    {
+      "value": 1,
+      "name": "혜택"
+    },
+    {
+      "value": 4,
+      "name": "공부"
+    },
+    {
+      "value": 2,
+      "name": "자녀"
+    },
+    {
+      "value": 2,
+      "name": "날"
+    },
+    {
+      "value": 1,
+      "name": "계속"
+    },
+    {
+      "value": 3,
+      "name": "시기"
+    },
+    {
+      "value": 1,
+      "name": "취직"
+    },
+    {
+      "value": 3,
+      "name": "생일"
+    },
+    {
+      "value": 5,
+      "name": "수당"
+    },
+    {
+      "value": 1,
+      "name": "엄마"
+    },
+    {
+      "value": 5,
+      "name": "졸업"
+    },
+    {
+      "value": 1,
+      "name": "학생"
+    },
+    {
+      "value": 4,
+      "name": "양육"
+    },
+    {
+      "value": 5,
+      "name": "가정"
+    },
+    {
+      "value": 2,
+      "name": "빛"
+    },
+    {
+      "value": 1,
+      "name": "금액"
+    },
+    {
+      "value": 2,
+      "name": "중단"
+    },
+    {
+      "value": 1,
+      "name": "학원"
+    },
+    {
+      "value": 1,
+      "name": "교육"
+    },
+    {
+      "value": 1,
+      "name": "담당자"
+    },
+    {
+      "value": 1,
+      "name": "분"
+    },
+    {
+      "value": 1,
+      "name": "은"
+    },
+    {
+      "value": 1,
+      "name": "그간"
+    },
+    {
+      "value": 1,
+      "name": "동시"
+    },
+    {
+      "value": 1,
+      "name": "맘"
+    },
+    {
+      "value": 1,
+      "name": "형편"
+    },
+    {
+      "value": 1,
+      "name": "능력"
+    },
+    {
+      "value": 1,
+      "name": "뒷바라지"
+    },
+    {
+      "value": 4,
+      "name": "힘"
+    },
+    {
+      "value": 1,
+      "name": "유지"
+    },
+    {
+      "value": 1,
+      "name": "아기"
+    },
+    {
+      "value": 1,
+      "name": "취업"
+    },
+    {
+      "value": 5,
+      "name": "지원"
+    },
+    {
+      "value": 3,
+      "name": "사회"
+    },
+    {
+      "value": 1,
+      "name": "첫발"
+    },
+    {
+      "value": 1,
+      "name": "새내기"
+    },
+    {
+      "value": 3,
+      "name": "책임"
+    },
+    {
+      "value": 2,
+      "name": "미래"
+    },
+    {
+      "value": 1,
+      "name": "희망"
+    },
+    {
+      "value": 1,
+      "name": "고"
+    },
+    {
+      "value": 1,
+      "name": "양육비"
+    },
+    {
+      "value": 2,
+      "name": "국무총리"
+    },
+    {
+      "value": 3,
+      "name": "국시"
+    },
+    {
+      "value": 4,
+      "name": "거부"
+    },
+    {
+      "value": 7,
+      "name": "의대"
+    },
+    {
+      "value": 14,
+      "name": "시험"
+    },
+    {
+      "value": 1,
+      "name": "검토"
+    },
+    {
+      "value": 9,
+      "name": "뉴스"
+    },
+    {
+      "value": 1,
+      "name": "기사"
+    },
+    {
+      "value": 1,
+      "name": "국기"
+    },
+    {
+      "value": 6,
+      "name": "단체"
+    },
+    {
+      "value": 3,
+      "name": "행동"
+    },
+    {
+      "value": 10,
+      "name": "구제"
+    },
+    {
+      "value": 6,
+      "name": "확진"
+    },
+    {
+      "value": 1,
+      "name": "응시"
+    },
+    {
+      "value": 1,
+      "name": "교사"
+    },
+    {
+      "value": 1,
+      "name": "실수"
+    },
+    {
+      "value": 1,
+      "name": "종료"
+    },
+    {
+      "value": 1,
+      "name": "종이"
+    },
+    {
+      "value": 1,
+      "name": "수능"
+    },
+    {
+      "value": 2,
+      "name": "강제"
+    },
+    {
+      "value": 2,
+      "name": "직원"
+    },
+    {
+      "value": 1,
+      "name": "인건비"
+    },
+    {
+      "value": 1,
+      "name": "임대료"
+    },
+    {
+      "value": 1,
+      "name": "손실"
+    },
+    {
+      "value": 1,
+      "name": "보상"
+    },
+    {
+      "value": 3,
+      "name": "지침"
+    },
+    {
+      "value": 20,
+      "name": "국민"
+    },
+    {
+      "value": 4,
+      "name": "대다수"
+    },
+    {
+      "value": 2,
+      "name": "민주당"
+    },
+    {
+      "value": 1,
+      "name": "과반"
+    },
+    {
+      "value": 3,
+      "name": "현재"
+    },
+    {
+      "value": 2,
+      "name": "보건"
+    },
+    {
+      "value": 1,
+      "name": "복지"
+    },
+    {
+      "value": 1,
+      "name": "소위"
+    },
+    {
+      "value": 2,
+      "name": "범죄"
+    },
+    {
+      "value": 12,
+      "name": "의사"
+    },
+    {
+      "value": 1,
+      "name": "면허"
+    },
+    {
+      "value": 1,
+      "name": "취소"
+    },
+    {
+      "value": 6,
+      "name": "법"
+    },
+    {
+      "value": 2,
+      "name": "의료"
+    },
+    {
+      "value": 1,
+      "name": "개혁"
+    },
+    {
+      "value": 1,
+      "name": "법안"
+    },
+    {
+      "value": 1,
+      "name": "상임위"
+    },
+    {
+      "value": 3,
+      "name": "통과"
+    },
+    {
+      "value": 5,
+      "name": "피해"
+    },
+    {
+      "value": 2,
+      "name": "비상시국"
+    },
+    {
+      "value": 12,
+      "name": "국가"
+    },
+    {
+      "value": 1,
+      "name": "개개인"
+    },
+    {
+      "value": 1,
+      "name": "이익"
+    },
+    {
+      "value": 5,
+      "name": "안전"
+    },
+    {
+      "value": 1,
+      "name": "국익"
+    },
+    {
+      "value": 2,
+      "name": "고려"
+    },
+    {
+      "value": 7,
+      "name": "여론"
+    },
+    {
+      "value": 1,
+      "name": "지난번"
+    },
+    {
+      "value": 2,
+      "name": "환자"
+    },
+    {
+      "value": 1,
+      "name": "볼모"
+    },
+    {
+      "value": 3,
+      "name": "파업"
+    },
+    {
+      "value": 1,
+      "name": "정서"
+    },
+    {
+      "value": 1,
+      "name": "마음"
+    },
+    {
+      "value": 1,
+      "name": "분란"
+    },
+    {
+      "value": 2,
+      "name": "사태"
+    },
+    {
+      "value": 6,
+      "name": "공정"
+    },
+    {
+      "value": 2,
+      "name": "반대"
+    },
+    {
+      "value": 1,
+      "name": "거주"
+    },
+    {
+      "value": 1,
+      "name": "도"
+    },
+    {
+      "value": 1,
+      "name": "민중"
+    },
+    {
+      "value": 4,
+      "name": "시작"
+    },
+    {
+      "value": 2,
+      "name": "국내"
+    },
+    {
+      "value": 1,
+      "name": "중국"
+    },
+    {
+      "value": 3,
+      "name": "질병"
+    },
+    {
+      "value": 1,
+      "name": "전파"
+    },
+    {
+      "value": 3,
+      "name": "대부분"
+    },
+    {
+      "value": 1,
+      "name": "입국"
+    },
+    {
+      "value": 1,
+      "name": "중국인"
+    },
+    {
+      "value": 2,
+      "name": "마스크"
+    },
+    {
+      "value": 1,
+      "name": "조달"
+    },
+    {
+      "value": 4,
+      "name": "시국"
+    },
+    {
+      "value": 2,
+      "name": "도안"
+    },
+    {
+      "value": 4,
+      "name": "정치"
+    },
+    {
+      "value": 2,
+      "name": "행보"
+    },
+    {
+      "value": 3,
+      "name": "이해"
+    },
+    {
+      "value": 1,
+      "name": "발생지"
+    },
+    {
+      "value": 6,
+      "name": "시민"
+    },
+    {
+      "value": 1,
+      "name": "발원지"
+    },
+    {
+      "value": 1,
+      "name": "종교"
+    },
+    {
+      "value": 14,
+      "name": "지역"
+    },
+    {
+      "value": 1,
+      "name": "집단"
+    },
+    {
+      "value": 1,
+      "name": "감염"
+    },
+    {
+      "value": 1,
+      "name": "문자"
+    },
+    {
+      "value": 4,
+      "name": "거리"
+    },
+    {
+      "value": 1,
+      "name": "뭐"
+    },
+    {
+      "value": 1,
+      "name": "유흥"
+    },
+    {
+      "value": 1,
+      "name": "청정"
+    },
+    {
+      "value": 1,
+      "name": "홍보"
+    },
+    {
+      "value": 2,
+      "name": "재난"
+    },
+    {
+      "value": 1,
+      "name": "지원금"
+    },
+    {
+      "value": 2,
+      "name": "소상"
+    },
+    {
+      "value": 2,
+      "name": "공인"
+    },
+    {
+      "value": 1,
+      "name": "직장인"
+    },
+    {
+      "value": 1,
+      "name": "상공"
+    },
+    {
+      "value": 2,
+      "name": "다"
+    },
+    {
+      "value": 2,
+      "name": "마찬가지"
+    },
+    {
+      "value": 1,
+      "name": "요"
+    },
+    {
+      "value": 1,
+      "name": "며칠"
+    },
+    {
+      "value": 1,
+      "name": "자수"
+    },
+    {
+      "value": 1,
+      "name": "천명"
+    },
+    {
+      "value": 1,
+      "name": "초반"
+    },
+    {
+      "value": 2,
+      "name": "얘기"
+    },
+    {
+      "value": 1,
+      "name": "모습"
+    },
+    {
+      "value": 4,
+      "name": "본인"
+    },
+    {
+      "value": 1,
+      "name": "노름"
+    },
+    {
+      "value": 1,
+      "name": "지지"
+    },
+    {
+      "value": 1,
+      "name": "놀이"
+    },
+    {
+      "value": 1,
+      "name": "밖"
+    },
+    {
+      "value": 1,
+      "name": "안보"
+    },
+    {
+      "value": 1,
+      "name": "제일"
+    },
+    {
+      "value": 1,
+      "name": "인구수"
+    },
+    {
+      "value": 7,
+      "name": "안"
+    },
+    {
+      "value": 2,
+      "name": "생활"
+    },
+    {
+      "value": 1,
+      "name": "치료"
+    },
+    {
+      "value": 2,
+      "name": "센터"
+    },
+    {
+      "value": 3,
+      "name": "병원"
+    },
+    {
+      "value": 2,
+      "name": "시설"
+    },
+    {
+      "value": 2,
+      "name": "마련"
+    },
+    {
+      "value": 1,
+      "name": "조치"
+    },
+    {
+      "value": 1,
+      "name": "음성"
+    },
+    {
+      "value": 5,
+      "name": "판정"
+    },
+    {
+      "value": 3,
+      "name": "자가"
+    },
+    {
+      "value": 3,
+      "name": "격리"
+    },
+    {
+      "value": 2,
+      "name": "관리"
+    },
+    {
+      "value": 3,
+      "name": "인력"
+    },
+    {
+      "value": 2,
+      "name": "보충"
+    },
+    {
+      "value": 1,
+      "name": "동선"
+    },
+    {
+      "value": 1,
+      "name": "파악"
+    },
+    {
+      "value": 1,
+      "name": "해당"
+    },
+    {
+      "value": 4,
+      "name": "부족"
+    },
+    {
+      "value": 1,
+      "name": "방역"
+    },
+    {
+      "value": 1,
+      "name": "윗사람"
+    },
+    {
+      "value": 1,
+      "name": "마당"
+    },
+    {
+      "value": 1,
+      "name": "스키장"
+    },
+    {
+      "value": 1,
+      "name": "연말연시"
+    },
+    {
+      "value": 2,
+      "name": "동해안"
+    },
+    {
+      "value": 1,
+      "name": "팬"
+    },
+    {
+      "value": 1,
+      "name": "션"
+    },
+    {
+      "value": 1,
+      "name": "리조트"
+    },
+    {
+      "value": 1,
+      "name": "예약"
+    },
+    {
+      "value": 1,
+      "name": "정작"
+    },
+    {
+      "value": 1,
+      "name": "출근"
+    },
+    {
+      "value": 1,
+      "name": "최소한"
+    },
+    {
+      "value": 1,
+      "name": "외출"
+    },
+    {
+      "value": 2,
+      "name": "제외"
+    },
+    {
+      "value": 3,
+      "name": "집"
+    },
+    {
+      "value": 1,
+      "name": "어른"
+    },
+    {
+      "value": 4,
+      "name": "타"
+    },
+    {
+      "value": 1,
+      "name": "활보"
+    },
+    {
+      "value": 1,
+      "name": "예"
+    },
+    {
+      "value": 1,
+      "name": "입장"
+    },
+    {
+      "value": 3,
+      "name": "이동"
+    },
+    {
+      "value": 2,
+      "name": "자제"
+    },
+    {
+      "value": 1,
+      "name": "실행"
+    },
+    {
+      "value": 2,
+      "name": "국회의원"
+    },
+    {
+      "value": 1,
+      "name": "계"
+    },
+    {
+      "value": 1,
+      "name": "신분"
+    },
+    {
+      "value": 1,
+      "name": "들"
+    },
+    {
+      "value": 1,
+      "name": "그전"
+    },
+    {
+      "value": 1,
+      "name": "대책"
+    },
+    {
+      "value": 1,
+      "name": "극복"
+    },
+    {
+      "value": 1,
+      "name": "종식"
+    },
+    {
+      "value": 4,
+      "name": "단계"
+    },
+    {
+      "value": 2,
+      "name": "격상"
+    },
+    {
+      "value": 1,
+      "name": "시도"
+    },
+    {
+      "value": 1,
+      "name": "동의"
+    },
+    {
+      "value": 3,
+      "name": "동참"
+    },
+    {
+      "value": 1,
+      "name": "할거"
+    },
+    {
+      "value": 1,
+      "name": "제한"
+    },
+    {
+      "value": 1,
+      "name": "통제"
+    },
+    {
+      "value": 4,
+      "name": "당장"
+    },
+    {
+      "value": 1,
+      "name": "소통"
+    },
+    {
+      "value": 1,
+      "name": "한번"
+    },
+    {
+      "value": 9,
+      "name": "살균제"
+    },
+    {
+      "value": 4,
+      "name": "참사"
+    },
+    {
+      "value": 7,
+      "name": "가해"
+    },
+    {
+      "value": 13,
+      "name": "기업"
+    },
+    {
+      "value": 3,
+      "name": "배상"
+    },
+    {
+      "value": 5,
+      "name": "이유"
+    },
+    {
+      "value": 2,
+      "name": "생명"
+    },
+    {
+      "value": 1,
+      "name": "경시"
+    },
+    {
+      "value": 2,
+      "name": "과거"
+    },
+    {
+      "value": 1,
+      "name": "계획"
+    },
+    {
+      "value": 3,
+      "name": "작전"
+    },
+    {
+      "value": 2,
+      "name": "재벌"
+    },
+    {
+      "value": 3,
+      "name": "권력"
+    },
+    {
+      "value": 2,
+      "name": "유착"
+    },
+    {
+      "value": 1,
+      "name": "관계"
+    },
+    {
+      "value": 2,
+      "name": "인권"
+    },
+    {
+      "value": 2,
+      "name": "원인"
+    },
+    {
+      "value": 1,
+      "name": "미상"
+    },
+    {
+      "value": 4,
+      "name": "질환"
+    },
+    {
+      "value": 1,
+      "name": "호흡"
+    },
+    {
+      "value": 1,
+      "name": "곤란"
+    },
+    {
+      "value": 2,
+      "name": "동반"
+    },
+    {
+      "value": 1,
+      "name": "중환자실"
+    },
+    {
+      "value": 1,
+      "name": "일반"
+    },
+    {
+      "value": 1,
+      "name": "병실"
+    },
+    {
+      "value": 1,
+      "name": "입원"
+    },
+    {
+      "value": 1,
+      "name": "본부"
+    },
+    {
+      "value": 2,
+      "name": "역학"
+    },
+    {
+      "value": 4,
+      "name": "조사"
+    },
+    {
+      "value": 1,
+      "name": "환경"
+    },
+    {
+      "value": 1,
+      "name": "하부"
+    },
+    {
+      "value": 3,
+      "name": "중심"
+    },
+    {
+      "value": 1,
+      "name": "결"
+    },
+    {
+      "value": 1,
+      "name": "절"
+    },
+    {
+      "value": 1,
+      "name": "유리"
+    },
+    {
+      "value": 1,
+      "name": "음영"
+    },
+    {
+      "value": 1,
+      "name": "폐렴"
+    },
+    {
+      "value": 1,
+      "name": "기관지"
+    },
+    {
+      "value": 1,
+      "name": "손상"
+    },
+    {
+      "value": 1,
+      "name": "일부"
+    },
+    {
+      "value": 1,
+      "name": "증상"
+    },
+    {
+      "value": 2,
+      "name": "인정"
+    },
+    {
+      "value": 1,
+      "name": "성분"
+    },
+    {
+      "value": 1,
+      "name": "제초제"
+    },
+    {
+      "value": 1,
+      "name": "전신"
+    },
+    {
+      "value": 1,
+      "name": "유발"
+    },
+    {
+      "value": 1,
+      "name": "초기"
+    },
+    {
+      "value": 1,
+      "name": "폐"
+    },
+    {
+      "value": 1,
+      "name": "집중"
+    },
+    {
+      "value": 2,
+      "name": "관할"
+    },
+    {
+      "value": 2,
+      "name": "부처"
+    },
+    {
+      "value": 1,
+      "name": "공백"
+    },
+    {
+      "value": 1,
+      "name": "발생"
+    },
+    {
+      "value": 2,
+      "name": "환경부"
+    },
+    {
+      "value": 2,
+      "name": "이관"
+    },
+    {
+      "value": 4,
+      "name": "당시"
+    },
+    {
+      "value": 2,
+      "name": "교수"
+    },
+    {
+      "value": 4,
+      "name": "기준"
+    },
+    {
+      "value": 2,
+      "name": "연구"
+    },
+    {
+      "value": 2,
+      "name": "용역"
+    },
+    {
+      "value": 1,
+      "name": "보고서"
+    },
+    {
+      "value": 2,
+      "name": "조작"
+    },
+    {
+      "value": 1,
+      "name": "관여"
+    },
+    {
+      "value": 1,
+      "name": "존재"
+    },
+    {
+      "value": 3,
+      "name": "법적"
+    },
+    {
+      "value": 1,
+      "name": "진짜"
+    },
+    {
+      "value": 1,
+      "name": "가짜"
+    },
+    {
+      "value": 1,
+      "name": "변경"
+    },
+    {
+      "value": 1,
+      "name": "적용"
+    },
+    {
+      "value": 1,
+      "name": "고통"
+    },
+    {
+      "value": 5,
+      "name": "옥"
+    },
+    {
+      "value": 2,
+      "name": "경우"
+    },
+    {
+      "value": 2,
+      "name": "표시"
+    },
+    {
+      "value": 2,
+      "name": "광고"
+    },
+    {
+      "value": 2,
+      "name": "위반"
+    },
+    {
+      "value": 2,
+      "name": "처분"
+    },
+    {
+      "value": 3,
+      "name": "인체"
+    },
+    {
+      "value": 2,
+      "name": "입증"
+    },
+    {
+      "value": 1,
+      "name": "시"
+    },
+    {
+      "value": 2,
+      "name": "싹"
+    },
+    {
+      "value": 1,
+      "name": "당번"
+    },
+    {
+      "value": 2,
+      "name": "사용"
+    },
+    {
+      "value": 2,
+      "name": "전원"
+    },
+    {
+      "value": 1,
+      "name": "명시"
+    },
+    {
+      "value": 3,
+      "name": "유해"
+    },
+    {
+      "value": 1,
+      "name": "낙타"
+    },
+    {
+      "value": 1,
+      "name": "바늘구멍"
+    },
+    {
+      "value": 3,
+      "name": "보호"
+    },
+    {
+      "value": 1,
+      "name": "변호사"
+    },
+    {
+      "value": 1,
+      "name": "개입"
+    },
+    {
+      "value": 1,
+      "name": "일제"
+    },
+    {
+      "value": 1,
+      "name": "징용"
+    },
+    {
+      "value": 1,
+      "name": "제철"
+    },
+    {
+      "value": 1,
+      "name": "다이"
+    },
+    {
+      "value": 1,
+      "name": "셀"
+    },
+    {
+      "value": 1,
+      "name": "변호"
+    },
+    {
+      "value": 1,
+      "name": "월경"
+    },
+    {
+      "value": 1,
+      "name": "전략"
+    },
+    {
+      "value": 1,
+      "name": "수석실"
+    },
+    {
+      "value": 1,
+      "name": "경제"
+    },
+    {
+      "value": 1,
+      "name": "수석"
+    },
+    {
+      "value": 2,
+      "name": "논의"
+    },
+    {
+      "value": 1,
+      "name": "내부"
+    },
+    {
+      "value": 1,
+      "name": "문건"
+    },
+    {
+      "value": 5,
+      "name": "특별법"
+    },
+    {
+      "value": 2,
+      "name": "실질"
+    },
+    {
+      "value": 1,
+      "name": "역할"
+    },
+    {
+      "value": 1,
+      "name": "새누리당"
+    },
+    {
+      "value": 3,
+      "name": "합세"
+    },
+    {
+      "value": 1,
+      "name": "진상"
+    },
+    {
+      "value": 2,
+      "name": "자료"
+    },
+    {
+      "value": 1,
+      "name": "폐기"
+    },
+    {
+      "value": 1,
+      "name": "당정"
+    },
+    {
+      "value": 1,
+      "name": "청"
+    },
+    {
+      "value": 4,
+      "name": "검찰"
+    },
+    {
+      "value": 6,
+      "name": "불법"
+    },
+    {
+      "value": 2,
+      "name": "케미컬"
+    },
+    {
+      "value": 3,
+      "name": "고발"
+    },
+    {
+      "value": 4,
+      "name": "공정위"
+    },
+    {
+      "value": 1,
+      "name": "대형"
+    },
+    {
+      "value": 1,
+      "name": "핑계"
+    },
+    {
+      "value": 2,
+      "name": "회의"
+    },
+    {
+      "value": 3,
+      "name": "심의"
+    },
+    {
+      "value": 3,
+      "name": "종결"
+    },
+    {
+      "value": 5,
+      "name": "처리"
+    },
+    {
+      "value": 1,
+      "name": "고의"
+    },
+    {
+      "value": 1,
+      "name": "정황"
+    },
+    {
+      "value": 1,
+      "name": "포착"
+    },
+    {
+      "value": 1,
+      "name": "의지"
+    },
+    {
+      "value": 1,
+      "name": "상임"
+    },
+    {
+      "value": 1,
+      "name": "위원"
+    },
+    {
+      "value": 1,
+      "name": "사무관"
+    },
+    {
+      "value": 1,
+      "name": "관련"
+    },
+    {
+      "value": 1,
+      "name": "공개"
+    },
+    {
+      "value": 1,
+      "name": "면담"
+    },
+    {
+      "value": 1,
+      "name": "거래"
+    },
+    {
+      "value": 1,
+      "name": "이전"
+    },
+    {
+      "value": 1,
+      "name": "증거"
+    },
+    {
+      "value": 1,
+      "name": "절차"
+    },
+    {
+      "value": 1,
+      "name": "시효"
+    },
+    {
+      "value": 1,
+      "name": "도과"
+    },
+    {
+      "value": 1,
+      "name": "면죄부"
+    },
+    {
+      "value": 1,
+      "name": "공정거래위"
+    },
+    {
+      "value": 1,
+      "name": "원장"
+    },
+    {
+      "value": 1,
+      "name": "팀"
+    },
+    {
+      "value": 1,
+      "name": "이번"
+    },
+    {
+      "value": 1,
+      "name": "살인죄"
+    },
+    {
+      "value": 1,
+      "name": "혐의"
+    },
+    {
+      "value": 1,
+      "name": "지시"
+    },
+    {
+      "value": 1,
+      "name": "살인"
+    },
+    {
+      "value": 1,
+      "name": "치사"
+    },
+    {
+      "value": 1,
+      "name": "사실"
+    },
+    {
+      "value": 1,
+      "name": "입맛"
+    },
+    {
+      "value": 2,
+      "name": "비리"
+    },
+    {
+      "value": 2,
+      "name": "속"
+    },
+    {
+      "value": 1,
+      "name": "사과"
+    },
+    {
+      "value": 1,
+      "name": "유족"
+    },
+    {
+      "value": 1,
+      "name": "지옥"
+    },
+    {
+      "value": 1,
+      "name": "돈벌이"
+    },
+    {
+      "value": 1,
+      "name": "혈안"
+    },
+    {
+      "value": 1,
+      "name": "사유"
+    },
+    {
+      "value": 1,
+      "name": "처벌"
+    },
+    {
+      "value": 1,
+      "name": "오늘"
+    },
+    {
+      "value": 1,
+      "name": "감"
+    },
+    {
+      "value": 1,
+      "name": "총리"
+    },
+    {
+      "value": 3,
+      "name": "필요"
+    },
+    {
+      "value": 1,
+      "name": "위"
+    },
+    {
+      "value": 3,
+      "name": "자의"
+    },
+    {
+      "value": 7,
+      "name": "고시"
+    },
+    {
+      "value": 2,
+      "name": "기회"
+    },
+    {
+      "value": 1,
+      "name": "처사"
+    },
+    {
+      "value": 1,
+      "name": "전적"
+    },
+    {
+      "value": 1,
+      "name": "코미디"
+    },
+    {
+      "value": 3,
+      "name": "앞"
+    },
+    {
+      "value": 2,
+      "name": "형성"
+    },
+    {
+      "value": 1,
+      "name": "올해"
+    },
+    {
+      "value": 1,
+      "name": "모두"
+    },
+    {
+      "value": 1,
+      "name": "강요"
+    },
+    {
+      "value": 1,
+      "name": "옛적"
+    },
+    {
+      "value": 1,
+      "name": "성인"
+    },
+    {
+      "value": 3,
+      "name": "자신"
+    },
+    {
+      "value": 2,
+      "name": "결정"
+    },
+    {
+      "value": 1,
+      "name": "영향"
+    },
+    {
+      "value": 4,
+      "name": "선택"
+    },
+    {
+      "value": 1,
+      "name": "대상"
+    },
+    {
+      "value": 1,
+      "name": "소수"
+    },
+    {
+      "value": 1,
+      "name": "분노"
+    },
+    {
+      "value": 1,
+      "name": "국가시험"
+    },
+    {
+      "value": 2,
+      "name": "직업"
+    },
+    {
+      "value": 1,
+      "name": "책임감"
+    },
+    {
+      "value": 1,
+      "name": "부담"
+    },
+    {
+      "value": 2,
+      "name": "협회"
+    },
+    {
+      "value": 1,
+      "name": "비극"
+    },
+    {
+      "value": 1,
+      "name": "뒤"
+    },
+    {
+      "value": 1,
+      "name": "지방"
+    },
+    {
+      "value": 1,
+      "name": "긴급"
+    },
+    {
+      "value": 1,
+      "name": "예상"
+    },
+    {
+      "value": 1,
+      "name": "건강"
+    },
+    {
+      "value": 1,
+      "name": "각오"
+    },
+    {
+      "value": 2,
+      "name": "현장"
+    },
+    {
+      "value": 2,
+      "name": "투입"
+    },
+    {
+      "value": 1,
+      "name": "얼"
+    },
+    {
+      "value": 1,
+      "name": "월급"
+    },
+    {
+      "value": 1,
+      "name": "줄"
+    },
+    {
+      "value": 2,
+      "name": "현직"
+    },
+    {
+      "value": 1,
+      "name": "간호사"
+    },
+    {
+      "value": 1,
+      "name": "대우"
+    },
+    {
+      "value": 1,
+      "name": "선례"
+    },
+    {
+      "value": 1,
+      "name": "손익"
+    },
+    {
+      "value": 1,
+      "name": "가부"
+    },
+    {
+      "value": 1,
+      "name": "아내"
+    },
+    {
+      "value": 1,
+      "name": "자식"
+    },
+    {
+      "value": 1,
+      "name": "신축"
+    },
+    {
+      "value": 4,
+      "name": "빌라"
+    },
+    {
+      "value": 3,
+      "name": "구청"
+    },
+    {
+      "value": 1,
+      "name": "통지서"
+    },
+    {
+      "value": 1,
+      "name": "장"
+    },
+    {
+      "value": 5,
+      "name": "건축물"
+    },
+    {
+      "value": 2,
+      "name": "철거"
+    },
+    {
+      "value": 1,
+      "name": "게"
+    },
+    {
+      "value": 1,
+      "name": "전화"
+    },
+    {
+      "value": 1,
+      "name": "확인"
+    },
+    {
+      "value": 1,
+      "name": "뒷베란다"
+    },
+    {
+      "value": 1,
+      "name": "동안"
+    },
+    {
+      "value": 2,
+      "name": "납부"
+    },
+    {
+      "value": 1,
+      "name": "이행"
+    },
+    {
+      "value": 1,
+      "name": "금"
+    },
+    {
+      "value": 1,
+      "name": "이제"
+    },
+    {
+      "value": 1,
+      "name": "곳"
+    },
+    {
+      "value": 1,
+      "name": "이사"
+    },
+    {
+      "value": 1,
+      "name": "건물"
+    },
+    {
+      "value": 1,
+      "name": "대장"
+    },
+    {
+      "value": 1,
+      "name": "기재"
+    },
+    {
+      "value": 1,
+      "name": "매수"
+    },
+    {
+      "value": 2,
+      "name": "양성"
+    },
+    {
+      "value": 1,
+      "name": "시행"
+    },
+    {
+      "value": 2,
+      "name": "서민"
+    },
+    {
+      "value": 1,
+      "name": "어려움"
+    },
+    {
+      "value": 1,
+      "name": "발의"
+    },
+    {
+      "value": 1,
+      "name": "국회"
+    },
+    {
+      "value": 1,
+      "name": "시일"
+    },
+    {
+      "value": 1,
+      "name": "전국"
+    },
+    {
+      "value": 1,
+      "name": "소형"
+    },
+    {
+      "value": 1,
+      "name": "조금"
+    }
+  ]

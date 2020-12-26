@@ -1,4 +1,4 @@
-import { Action, AnyAction } from 'redux'
+import { AnyAction } from 'redux'
 import { INDEX, STATUS } from 'typings'
 import * as types from './types'
 

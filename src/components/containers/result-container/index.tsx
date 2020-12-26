@@ -1,6 +1,6 @@
 import React, { FC } from 'react'
 
-import { ResultContent, Card, ResoultData, Title } from 'components'
+import { ResultContent, Card, ResultData, Title } from 'components'
 
 interface Props {}
 
@@ -9,7 +9,7 @@ const ResoultContainer: FC = ({}: Props) => {
     <ResultContent>
       <Title>결과</Title>
       <Card data-cy="card">
-        <ResoultData />
+        <ResultData />
       </Card>
     </ResultContent>
   )
